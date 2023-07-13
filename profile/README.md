@@ -1,4 +1,4 @@
-![SharpenedOS](https://raw.githubusercontent.com/SharpenedOS/.github/main/SharpenedBanner.png)
+![SharpenedOS](https://raw.githubusercontent.com/SharpenedOS/.github/main/sharpened-banner.png)
 
 SharpenedOS
 ===========
